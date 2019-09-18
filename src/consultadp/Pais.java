@@ -36,7 +36,7 @@ public class Pais {
 
         String anteriorPais = "";
          for (int i = 0; i < datos.length; i++) {
-            if (!datos[i][0].equals(anteriorPais) && !datos[i][0].equals("Pais")) {
+            if (!datos[i][0].equals(anteriorPais)) { //if (!datos[i][0].equals(anteriorPais)&& !datos[i][0].equals("Pais"))
                 if (paises == null) {
                     paises = new Pais[1];
                 } else {

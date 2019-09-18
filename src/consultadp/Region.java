@@ -41,32 +41,33 @@ public class Region {
         regiones = new Region[datos.length];
         for (int i = 0; i < datos.length; i++) {
             regiones[i] = new Region(datos[i][1],
-                                     datos[i][3],
-                                    datos[i][2], 
-                                    datos[i][0]);
+                    datos[i][3],
+                    datos[i][2],
+                    datos[i][0]);
         }
-    } 
-    
-    public static void mostrar(JTable tbl, Pais p){
+    }
+
+    public static void mostrar(JTable tbl, Pais p) {
         String[] encabezados = new String[]{"Nombre", "Tipo", "Capital"};
-        
-        /*int totalRegiones = 0;
-        for(int i = 0; i< regiones.length; i++){
-            if(p.obtenerPais().equals(regiones[i].obtenerPais().obtenerPais())){
+
+        int totalRegiones = 0;
+        for (int i = 0; i < regiones.length; i++) {
+            if (p.obtenerNombrePais().equals(regiones[i].obtenerPais().obtenerNombrePais())) {
                 totalRegiones++;
             }
         }
-        
+
         String[][] datos = new String[totalRegiones][3];
-        for(int i = 0; i< regiones.length; i++){
-            if(p.obtenerPais().equals(regiones[i].obtenerPais().obtenerPais())){
+        totalRegiones = 0;
+        for (int i = 0; i < regiones.length; i++) {
+            if (p.obtenerNombrePais().equals(regiones[i].obtenerPais().obtenerNombrePais())) {
                 datos[totalRegiones][0] = regiones[i].obtenerRegion();
                 datos[totalRegiones][1] = regiones[i].obtenerTipo();
                 datos[totalRegiones][2] = regiones[i].obtenerCapital();
+                totalRegiones++;
             }
         }
-        tbl.setModel(new DefaultTableModel(datos, encabezados));*/
+        tbl.setModel(new DefaultTableModel(datos, encabezados));
     }
 }
-    
 
