@@ -1,0 +1,152 @@
+Pais;Region;TipoRegion;Capital
+COLOMBIA;Amazonas;DEPARTAMENTO;LETICIA
+COLOMBIA;Antioquia;DEPARTAMENTO;MEDELLIN
+COLOMBIA;Arauca;DEPARTAMENTO;ARAUCA
+COLOMBIA;Archipielago San Andres y Providencia;DEPARTAMENTO;SAN ANDRES
+COLOMBIA;Atlantico;DEPARTAMENTO;BARRANQUILLA
+COLOMBIA;Bolivar;DEPARTAMENTO;CARTAGENA
+COLOMBIA;Boyaca;DEPARTAMENTO;TUNJA
+COLOMBIA;Caldas;DEPARTAMENTO;MANIZALES
+COLOMBIA;Caqueta;DEPARTAMENTO;FLORENCIA
+COLOMBIA;Casanare;DEPARTAMENTO;YOPAL
+COLOMBIA;Cauca;DEPARTAMENTO;POPAYAN
+COLOMBIA;Cesar;DEPARTAMENTO;VALLEDUPAR
+COLOMBIA;Choco;DEPARTAMENTO;QUIBDO
+COLOMBIA;Cordova;DEPARTAMENTO;MONTERIA
+COLOMBIA;Cundinamarca;DEPARTAMENTO;SANTA FE DE BOGOTA D.C.
+COLOMBIA;Guainia;DEPARTAMENTO;PUERTO INIRIDA
+COLOMBIA;Guaviare;DEPARTAMENTO;SAN JOSE DEL GUAVIARE
+COLOMBIA;Huila;DEPARTAMENTO;NEIVA
+COLOMBIA;La Guajira;DEPARTAMENTO;RIOHACHA
+COLOMBIA;Magdalena;DEPARTAMENTO;SANTA MARTA
+COLOMBIA;Meta;DEPARTAMENTO;VILLAVICENCIO
+COLOMBIA;Nari�o;DEPARTAMENTO;PASTO
+COLOMBIA;Norte de Santander;DEPARTAMENTO;CUCUTA
+COLOMBIA;Putumayo;DEPARTAMENTO;MOCOA
+COLOMBIA;Quindio;DEPARTAMENTO;ARMENIA
+COLOMBIA;Risaralda;DEPARTAMENTO;PEREIRA
+COLOMBIA;Santander;DEPARTAMENTO;BUCARAMANGA
+COLOMBIA;Sucre;DEPARTAMENTO;SINCELEJO
+COLOMBIA;Tolima;DEPARTAMENTO;IBAGUE
+COLOMBIA;Valle del Cauca;DEPARTAMENTO;CALI
+COLOMBIA;Vaupes;DEPARTAMENTO;MITU
+COLOMBIA;Vichada;DEPARTAMENTO;PUERTO CARRE�O
+ARGENTINA;Buenos Aires;ESTADO;La Plata
+ARGENTINA;Catamarca;ESTADO;San Fernando del Valle de Catamarca
+ARGENTINA;Chaco;ESTADO;Resistencia
+ARGENTINA;Chubut;ESTADO;Rawson
+ARGENTINA;Cordoba;ESTADO;COrdoba
+ARGENTINA;Corrientes;ESTADO;Corrientes
+ARGENTINA;Distrito Autonomo;ESTADO;Buenos Aires
+ARGENTINA;Entre Rios;ESTADO;Parana
+ARGENTINA;Formosa;ESTADO;Formosa
+ARGENTINA;Jujuy;ESTADO;San Salvador de Jujuy
+ARGENTINA;La Pampa;ESTADO;Santa Rosa
+ARGENTINA;La Rioja;ESTADO;La Rioja
+ARGENTINA;Mendoza;ESTADO;Mendoza
+ARGENTINA;Misiones;ESTADO;Posadas
+ARGENTINA;Neuquen;ESTADO;Neuquen
+ARGENTINA;Rio Negro;ESTADO;Viedma
+ARGENTINA;Salta;ESTADO;Salta
+ARGENTINA;San Juan;ESTADO;San Juan
+ARGENTINA;San Luis;ESTADO;San Luis
+ARGENTINA;Santa Cruz;ESTADO;RIo Gallegos
+ARGENTINA;Santa Fe;ESTADO;Santa Fe de la Vera Cruz
+ARGENTINA;Santiago del Estero;ESTADO;Santiago del Estero
+ARGENTINA;Tierra del Fuego, Antartida e Islas del Atlantico ;ESTADO;Ushuaia
+ARGENTINA;Tucuman;ESTADO;San Miguel de TucumAn
+BRASIL;Acre;ESTADO;Rio Branco
+BRASIL;Alagoas;ESTADO;Maceio
+BRASIL;Amapa;ESTADO;Macapa
+BRASIL;Amazonas;ESTADO;Manaus
+BRASIL;Bahia;ESTADO;Salvador
+BRASIL;Ceara;ESTADO;Fortaleza
+BRASIL;Distrito Federal;ESTADO;Brasilia
+BRASIL;Espirito Santo;ESTADO;VitOria
+BRASIL;Goias;ESTADO;Goiania
+BRASIL;Maranh�o;ESTADO;Sao LuIs
+BRASIL;Mato Grosso;ESTADO;CuiabA
+BRASIL;Mato Grosso do Sul;ESTADO;Campo Grande
+BRASIL;Minas Gerais;ESTADO;Belo Horizonte
+BRASIL;Para;ESTADO;Belem
+BRASIL;Paraiba;ESTADO;Joao Pessoa
+BRASIL;Parana;ESTADO;Curitiba
+BRASIL;Pernambuco;ESTADO;Recife
+BRASIL;Piaui;ESTADO;Teresina
+BRASIL;Rio de Janeiro;ESTADO;Rio de Janeiro
+BRASIL;Rio Grande do Norte;ESTADO;Natal
+BRASIL;Rio Grande do Sul;ESTADO;Porto Alegre
+BRASIL;Rondonia;ESTADO;Porto Velho
+BRASIL;Roraima;ESTADO;Boa Vista
+BRASIL;Santa Catarina;ESTADO;FlorianOpolis
+BRASIL;Sao Paulo;ESTADO;Sao Paulo
+BRASIL;Sergipe;ESTADO;Aracaju
+BRASIL;Tocantins;ESTADO;Palmas
+CANADA;Alberta;ESTADO;Edmonton
+CANADA;British Columbia;ESTADO;Victoria
+CANADA;Manitoba;ESTADO;Winnipeg
+CANADA;New Brunswick;ESTADO;Fredericton
+CANADA;Northwest Territories;ESTADO;YellowKnife
+CANADA;Nova Scotia;ESTADO;Halifax
+CANADA;Nunavut;ESTADO;Baker Lake
+CANADA;Ontario;ESTADO;Toronto
+CANADA;Prince Edward Island;ESTADO;Charlottetown
+CANADA;Quebec;ESTADO;Quebec
+CANADA;Saskatchewan;ESTADO;Regina
+CANADA;Terranova and Labrador;ESTADO;Saint Jhonn�s
+CANADA;Yukon Territory;ESTADO;WhiteHorse
+MÉXICO;Aguascalientes;ESTADO;Aguascalientes
+MÉXICO;Baja California;ESTADO;Mexicali
+MÉXICO;Baja California Sur;ESTADO;La Paz
+MÉXICO;Campeche;ESTADO;San Francisco de Campeche
+MÉXICO;Chiapas;ESTADO;Tuxtla Gutierrez
+MÉXICO;Chihuahua;ESTADO;Chihuahua
+MÉXICO;Coahuila de Zaragoza;ESTADO;Saltillo
+MÉXICO;Colima;ESTADO;Colima
+MÉXICO;Distrito Federal;ESTADO;Ciudad de MExico
+MÉXICO;Durango;ESTADO;Victoria de Durango
+MÉXICO;Guanajuato;ESTADO;Guanajuato
+MÉXICO;Guerrero;ESTADO;Chilpancingo de los Bravo
+MÉXICO;Hidalgo;ESTADO;Pachuca de Soto
+MÉXICO;Jalisco;ESTADO;Guadalajara
+MÉXICO;Mexico;ESTADO;Toluca de Lerdo
+MÉXICO;Michoacan de Ocampo;ESTADO;Morelia
+MÉXICO;Morelos;ESTADO;Cuernavaca
+MÉXICO;Nayarit;ESTADO;Tepic
+MÉXICO;Nuevo Leon;ESTADO;Monterrey
+MÉXICO;Oaxaca;ESTADO;Oaxaca de Juarez
+MÉXICO;Puebla;ESTADO;Puebla de Zaragoza
+MÉXICO;Queretaro;ESTADO;Santiago de Queretaro
+MÉXICO;Quintana Roo;ESTADO;Chetumal
+MÉXICO;San Luis Potosi;ESTADO;San Luis Potosi
+MÉXICO;Sinaloa;ESTADO;Culiacan
+MÉXICO;Sonora;ESTADO;Hermosillo
+MÉXICO;Tabasco;ESTADO;Villahermosa
+MÉXICO;Tamaulipas;ESTADO;Ciudad Victoria
+MÉXICO;Tlaxcala;ESTADO;Tlaxcala de Xicohtencatl
+MÉXICO;Veracruz;ESTADO;Xalapa-EnrIquez
+MÉXICO;Yucatan;ESTADO;Merida
+MÉXICO;Zacatecas;ESTADO;Zacatecas
+VENEZUELA;Apure;ESTADO;San Fernando de Apure
+VENEZUELA;Aragua;ESTADO;Maracay
+VENEZUELA;Barinas;ESTADO;Barinas
+VENEZUELA;Bolivar;ESTADO;Ciudad BolIvar
+VENEZUELA;Carabobo;ESTADO;Valencia
+VENEZUELA;Cojedes;ESTADO;San Carlos
+VENEZUELA;Delta Amacuro;ESTADO;Tucupita
+VENEZUELA;Dependencias Federales;ESTADO;Los Roques
+VENEZUELA;Distrito Capital;ESTADO;Caracas
+VENEZUELA;Falcon;ESTADO;Coro
+VENEZUELA;Guarico;ESTADO;San Juan De Los Morros
+VENEZUELA;Lara;ESTADO;Barquisimeto
+VENEZUELA;Merida;ESTADO;Merida
+VENEZUELA;Miranda;ESTADO;Los Teques
+VENEZUELA;Monagas;ESTADO;Maturin
+VENEZUELA;Nueva Esparta;ESTADO;La AsunciOn
+VENEZUELA;Portuguesa;ESTADO;Guanare
+VENEZUELA;Sucre;ESTADO;Cumana
+VENEZUELA;Tachira;ESTADO;San CristObal
+VENEZUELA;Trujillo;ESTADO;Trujillo
+VENEZUELA;Vargas;ESTADO;La Guaira
+VENEZUELA;Yaracuy;ESTADO;San Felipe
+VENEZUELA;Zulia;ESTADO;Maracaibo
